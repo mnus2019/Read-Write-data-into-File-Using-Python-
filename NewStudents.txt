@@ -1,0 +1,61 @@
+20
+Lime
+reading and dancing
+66.0
+Christian
+Reading, Sports, Cooking/Baking
+68.15
+Dora
+Listen music 
+62.204758
+Kidus
+Track
+61.0
+Abraham
+Football, music, soccer
+71.0
+Momodou
+Playing soccer and coding
+70.0
+Artem
+Basketball,video games
+74.0
+david
+computer
+71.0
+Berdygali
+Computer games,Books:Dostoevsky,Dmitryi Glukhovsky
+70.0
+Wilson
+soccer
+66.929
+Maka
+Playing football(soccer), traveling 
+66.0
+Kassin
+Baseball, cooking, basketball, golf, movies
+72.0
+Elizabeth
+Art
+64.0
+Haley
+I like to sing and take photos. 
+59.84
+Bleu
+Reading, Sleeping
+63.0
+Micah
+Photography,carpentry,sports,outdoor activities,landscaping
+75.0
+Landon
+soccer
+75.0
+Khanh Linh 
+Playing chess
+69.0
+Kody
+Games, computers
+76.0
+Shawn
+piano
+67.0
